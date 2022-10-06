@@ -48,7 +48,7 @@ def o():
     jalan(logo)
     jalan('\t RANDOM NUMBER CRACK')
     print('')
-    jalan('\x1b[1;32m [2] \x1b[1;32mRANDOM CRACK')
+    jalan('\x1b[1;32m [1] \x1b[1;32mRANDOM CRACK')
     jalan('\x1b[1;32m [2] \x1b[1;32mCONTACT ME ON FACEBOOK')
     jalan(' \x1b[1;32m[3] \x1b[1;32mSUBSCRIBE MY CHANNEL')
     jalan(' \x1b[1;32m[4] \x1b[1;32mJOIN FB GROUP')
